@@ -48,7 +48,7 @@ code: [익명화된 GitHub 저장소 링크]
             <p>
                 Finding the optimal distillation path is computationally intractable. Our framework transforms this global search into a series of guided local searches. At each stage, a <strong>surrogate-assisted evolutionary search</strong> efficiently finds the best intermediate model architecture, guided by our novel <strong>semantic similarity</strong> metric.
             </p>
-            <img src="static/images/framework_overview.png" alt="Overview of the DELTA-Diff framework"/>
+            <img src="static/images/diagram.png" alt="Overview of the DELTA-Diff framework"/>
         </div>
     </div>
 </div>
@@ -63,7 +63,7 @@ code: [익명화된 GitHub 저장소 링크]
         <p class="has-text-centered">
             At a <strong>63% compression ratio</strong> (-63% U-Net Params), our model (DELTA-Diff Tiny) preserves the teacher's visual quality, while the single-step baseline (BK-SDM) suffers from clear degradation.
         </p>
-        <img src="static/images/qualitative_comparison.png" alt="Qualitative comparison of generated images"/>
+        <img src="static/images/qualitaty.png" alt="Qualitative comparison of generated images"/>
     </div>
 </div>
 
