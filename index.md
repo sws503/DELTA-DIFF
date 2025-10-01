@@ -63,7 +63,7 @@ code: [익명화된 GitHub 저장소 링크]
         <p class="has-text-centered">
             At a <strong>63% compression ratio</strong> (-63% U-Net Params), our model (DELTA-Diff Tiny) preserves the teacher's visual quality, while the single-step baseline (BK-SDM) suffers from clear degradation.
         </p>
-        <img src="static/images/qualitaty.png" alt="Qualitative comparison of generated images"/>
+        <img src="static/images/quality.png" alt="Qualitative comparison of generated images"/>
     </div>
 </div>
 
