@@ -19,7 +19,7 @@ code: [익명화된 GitHub 저장소 링크]
                 Conventional single-step compression creates a large "knowledge gap," leading to significant performance loss. <strong>DELTA-Diff</strong> bridges this gap by creating an optimal, multi-step distillation path with a series of teacher-assistant models.
             </p>
         </div>
-        <img src="static/images/overview_delta_diff.png" alt="Overview of DELTA-Diff vs Conventional KD"/>
+        <img src="static/images/overview.png" alt="Overview of DELTA-Diff vs Conventional KD"/>
         <p class="is-size-7 has-text-grey">
             <em>Our multi-step approach (bottom) breaks down the large teacher-student knowledge gap into smaller, manageable steps, preserving knowledge far more effectively than conventional single-step methods (top).</em>
         </p>
